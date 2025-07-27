@@ -1,4 +1,4 @@
-# 🧠 FredDie Zen - Chat (Upgraded)
+# 🧠 FredDie Zen - Chat 
 
 A sleek, responsive, and feature-rich web-based chatbot UI built with HTML, CSS, and JavaScript — complete with chat history, voice input, file uploads, dark mode, and export capabilities!
 
